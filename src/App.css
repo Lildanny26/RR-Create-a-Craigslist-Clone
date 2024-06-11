@@ -42,6 +42,7 @@ img {
   font-size: 5vh;
   grid-area: searchbar;
   border: 1px solid black;
+  padding-left: 20px;
 }
 
 .sideBar {
